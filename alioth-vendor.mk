@@ -287,7 +287,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/96_nfcCard_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/96_nfcCard_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/98_nfcCardSlow_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/98_nfcCardSlow_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/9_ringTone4_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/9_ringTone4_P_RTP.bin \
->>>>>>> 135bc69 (johnmart19 Alioth: Import All Vibrator Effects firmware)
     vendor/xiaomi/alioth/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/aw8697_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/aw8697_rtp_1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_rtp_1.bin \
